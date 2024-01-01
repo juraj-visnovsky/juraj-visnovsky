@@ -18,7 +18,7 @@ Hey! 👋 I'm Juraj (pronounced like yur-eye), a senior software engineer. This 
 
 - **Attention to detail:** I take pride in meticulously examining every aspect of a project, ensuring a high level of quality in the work delivered.
 - **Reliability:** My team can rely on me to consistently deliver on my promises and commitments.
-- **Fearlessness:** In the face of challenges, I approach problem-solving with courage and a positive mindset.
+- **Resilient problem-solving**: I approach challenges with resilience, maintaining a positive and solution-oriented mindset.
 - **Data-driven decision-making**: I leverage data and analytics to make informed decisions.
 
 ## My weaknesses
