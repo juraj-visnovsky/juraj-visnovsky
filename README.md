@@ -4,7 +4,6 @@ Hey! 👋 I'm Juraj (pronounced like yur-eye), a senior software engineer. This 
 
 - **Transparency:** I believe the organization I work with should be upfront and open about its actions. This not only fosters trust but also serves as motivation for the team. Transparency ensures that everyone is on the same page, understanding the reasoning behind decisions and actions.
 - **Trust**: Team members who feel trusted are empowered and motivated to their best work, which in turn helps the business.
-- **Work-life balance:** I highly value personal time, therefore I avoid participating in on-call rotations. This commitment enables me to bring my best self to the workplace and ensures sustained productivity.
 - **Work-life balance:** I highly value personal time; therefore, I avoid participating in on-call rotations. This commitment enables me to bring my best self to the workplace and ensures sustained productivity.
 
 ## What I value in others
