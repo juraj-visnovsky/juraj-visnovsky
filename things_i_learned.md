@@ -2,6 +2,11 @@
 
 ## January
 
+- 04 Jan 2025
+  - [How To Not Be Replaced by AI](https://www.maxberry.ca/p/how-to-not-be-replaced-by-ai)
+    - According to [the The Role of AI in the Global Workforce survey](https://www.deel.com/the-role-of-ai-in-the-global-workforce/), 66% of organizations expect a slowdown in entry-level hiring due to AI.
+    - Moravec’s paradox: "It is comparatively easy to make computers exhibit adult-level performance on intelligence tests or playing checkers, and difficult or impossible to give them the skills of a one-year-old when it comes to perception and mobility."
+    - Polanyi’s paradox: "We can know more than we can tell."
 - 03 Jan 2025
   - [Ruby 4.0](https://www.ruby-lang.org/en/news/2025/12/25/ruby-4-0-0-released/)
     - Ruby Box: A new (experimental) mechanism for isolated execution (potentially useful for large dependency upgrades, e.g., Rails).
