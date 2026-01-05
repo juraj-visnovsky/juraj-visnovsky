@@ -2,6 +2,14 @@
 
 ## January
 
+- 05 Jan 2025
+  - [Wardley Maps & Pace Layering for Senior Tech Leads and Engineering Leaders](https://blog.alexewerlof.com/p/wardley-maps-and-pace-layering-for)
+    - Pace layering:
+      - Describes how different parts of a system change at different rates. For example, a building may last over 50 years, while its interiors change every 5–7 years.
+      - In a tech context, this is typically expressed as:
+        - Systems of innovation (SOI): Fast-changing, experimental, high uncertainty
+        - Systems of differentiation (SOD): Unique, evolving, medium pace
+        - Systems of record (SOR): Stable, foundational, slow-changing
 - 04 Jan 2025
   - [How To Not Be Replaced by AI](https://www.maxberry.ca/p/how-to-not-be-replaced-by-ai)
     - According to [the The Role of AI in the Global Workforce survey](https://www.deel.com/the-role-of-ai-in-the-global-workforce/), 66% of organizations expect a slowdown in entry-level hiring due to AI.
