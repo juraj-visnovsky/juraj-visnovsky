@@ -2,6 +2,10 @@
 
 ## January
 
+- 10 Jan 2025
+  - [Wardley Maps](https://learnwardleymapping.com/book/)
+    - Red queen hypothesis: species must constantly evolve and adapt not to gain an advantage, but simply to survive while competing against other evolving species in a constantly changing environment.
+    - Innovation paradox (Salaman, Storey): The better an organization gets at executing what already works, the worse it becomes at discovering what should work next. The systems that maximize efficiency, predictability, and safety quietly eliminate the risk, slack, and failure that innovation depends on.
 - 05 Jan 2025
   - [Wardley Maps & Pace Layering for Senior Tech Leads and Engineering Leaders](https://blog.alexewerlof.com/p/wardley-maps-and-pace-layering-for)
     - Pace layering:
