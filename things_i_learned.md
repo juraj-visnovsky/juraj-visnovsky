@@ -2,6 +2,8 @@
 
 ## January
 
+- 28 Jan 2026
+  - The Parthian Battery: Artifacts dating back to around 400 AD. When filled with an acidic liquid, they can produce roughly 1.1 to 2 volts of electricity -> making them the first known source of electricity.
 - 17 Jan 2026
   - [Welcome to Gas Town](https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04)
     - Gas Town is an AI coding agent ochestrator.
