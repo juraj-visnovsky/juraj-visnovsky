@@ -1,5 +1,10 @@
 # 2026
 
+## March
+
+- 11 Mar 2026
+  - The Silent Conquest: Cybernation by Donald Michael - in 1968 he predicted that computing would make everyone unemployed. The fears of technology-driven job loss that we hear today about AI are not new.
+
 ## January
 
 - 28 Jan 2026
