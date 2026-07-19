@@ -20,7 +20,7 @@ These are the principles I try to live by and appreciate in others:
 AI-assisted engineering is core to how I build, and I treat it as a craft to get good at.
 
 - **Primary tools**: Claude Code for the hands-on-keyboard work, with a chat window (Claude / ChatGPT) for design discussion and research.
-- **Planning-first**: following Matt Pocock's agentic engineering approach, I align on the approach before writing code.
+- **Planning-first**: following [Matt Pocock's agentic engineering approach](https://github.com/mattpocock/skills), I align on the approach before writing code.
 - **Pragmatic craftsman first**: AI does the heavy lifting, but I own the outcome. I don't merge code I don't understand.
 - **Optimistic about where it's heading**: I see agentic engineering as an inevitable and exciting shift, and I like experimenting and sharing what works.
 
