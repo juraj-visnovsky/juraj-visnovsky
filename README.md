@@ -2,7 +2,8 @@ Hey! 👋 I'm Juraj (pronounced "yur-eye"), a senior software engineer. Welcome 
 
 ## About me
 
-- I've worked in industries like biometric identification, video-on-demand, and crowdtesting, taking on roles as a full-stack developer, backend developer, and even a data engineer.
+- I've worked in industries like biometric identification, video-on-demand, crowdtesting, and subscription analytics, taking on roles as a full-stack developer, backend developer, and even a data engineer.
+- I enjoy solving interesting and challenging problems, taking end-to-end ownership of projects from idea to deployment.
 - Outside of work, I'm passionate about cycling, board games, and experimenting in the kitchen.
 
 ## My values
@@ -10,7 +11,6 @@ Hey! 👋 I'm Juraj (pronounced "yur-eye"), a senior software engineer. Welcome 
 These are the principles I try to live by and appreciate in others:
 - **Transparency**: I default to sharing context and work-in-progress early, even when it's still messy. It builds trust and helps everyone understand the _why_ behind decisions.
 - **Trust**: When people are trusted with autonomy, they do their best work. I give it freely and try to earn it in return.
-- **Work-life balance**: I protect my personal time and avoid on-call duties. A healthy balance keeps me energized and lets me bring my best self to work.
 - **Honesty**: I'd rather have the direct conversation than the comfortable one.
 - **Empathy**: Understanding different perspectives and treating people with care makes collaboration smoother and more human.
 - **Growth mindset**: I see challenges and feedback as chances to learn and improve.
@@ -23,21 +23,6 @@ AI-assisted engineering is core to how I build, and I treat it as a craft to get
 - **Planning-first**: following [Matt Pocock's agentic engineering approach](https://github.com/mattpocock/skills), I align on the approach before writing code.
 - **Pragmatic craftsman first**: AI does the heavy lifting, but I own the outcome. I don't merge code I don't understand.
 - **Optimistic about where it's heading**: I see agentic engineering as an inevitable and exciting shift, and I like experimenting and sharing what works.
-
-## My strengths
-
-- **Attention to detail**: I notice and care about the small things that make a big difference in quality.
-- **Reliability**: I follow through on what I say I'll do.
-- **Resilience**: I stay calm under pressure and keep a solution-oriented mindset.
-- **Data-driven thinking**: I use data to guide decisions and solve problems effectively.
-
-## My weaknesses
-
-- **Real-time responses**: I tend to take time with complex questions to give thoughtful answers. Under time pressure, quality may drop.
-- **Over-explaining**: I like to give full context when I communicate, but I'm learning to be more concise.
-- **Perfectionism**: I sometimes spend too long polishing things that are already good enough, and I tend to be overly critical of the work I deliver.
-
-If you feel like something important is missing from this list, please let me know.
 
 ## How I work
 
@@ -69,6 +54,7 @@ If you feel like something important is missing from this list, please let me kn
 
 ### Work environment
 
-- I work fully remotely from home.
-- I use Linux (Fedora).
-- My primary IDE is RubyMine, with VS Code or Cursor for personal projects, and Claude Code in the terminal running alongside whichever one I'm in.
+- I work fully remotely.
+- I use Linux (Fedora/Omarchy).
+- IDEs: VS Code, RubyMine, Cursor.
+- Claude Code, Herdr, Sandcastle
